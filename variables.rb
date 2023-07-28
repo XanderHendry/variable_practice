@@ -1,0 +1,2 @@
+dogs = "We have 2 dogs"
+cats = "We don't have a cat"
